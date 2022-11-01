@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #232427;
+}
+
+.div1, .div2 {
+  height: 100vh;
+}
+
+.div1{
+  background-color: #232427;
+}
+
+.div2{
+  background-color: #d0d3e6;
+}
+
+.square {
+  width: 150px;
+  height: 20vh;
+  background-color: #73c0ea
+}
+
+
+.red {
+  background-color: #ef4b9c
+}
