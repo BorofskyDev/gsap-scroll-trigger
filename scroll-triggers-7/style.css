@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #232427;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  background-color: #ef4b9c;
+  transition: all 900ms ease-in-out
+}
+
+.panel {
+  height: 100vh;
+  background-color: #d0d3e6;
+}
+
+.box-red {
+  background-color: #f50035;
+
+}
